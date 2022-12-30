@@ -1,5 +1,4 @@
-import { words, allowed } from './words.server';
-export const prerender = true;	
+import { words, allowed } from './words.server';	
 
 export class Game {
 	/**

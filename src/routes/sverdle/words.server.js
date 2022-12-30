@@ -1,5 +1,4 @@
 /** The list of possible words */
-export const prerender = true;
 export const words = [
   "aback",
   "abase",
